@@ -1,6 +1,6 @@
-# Pontus
+# Pontus, a Kun.ai platform
 
-Pontus Labs delivers cutting-edge AI solutions for businesses. Our platform enables intelligent automations, AI agents, and efficient data retrieval. Pontus is a spinout of Kunai.
+Pontus Labs delivers cutting-edge AI solutions for businesses. Our platform enables intelligent automations, AI agents, and efficient data retrieval. 
 
 ## Our AI Platform
 
