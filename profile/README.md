@@ -1,12 +1,13 @@
-## Hi there 👋
+# Pontus
 
-<!--
+Pontus Labs delivers cutting-edge AI solutions for businesses. Our platform enables intelligent automations, AI agents, and efficient data retrieval. Pontus is a spinout of Kunai.
 
-**Here are some ideas to get you started:**
+## Our AI Platform
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. **Workflow Engine**: Create and manage complex automations
+2. **AI Agents**: Deploy intelligent agents for various tasks
+3. **Data Retrieval**: Access and utilize your data efficiently
+
+## Get Started
+
+To learn more about our platform or to request a demo, visit [www.pontuslabs.com](https://www.pontuslabs.com).
