@@ -1,4 +1,4 @@
-# Pontus, a Kun.ai platform
+# Pontus
 
 Pontus Labs delivers cutting-edge AI solutions for businesses. Our platform enables intelligent automations, AI agents, and efficient data retrieval. 
 
